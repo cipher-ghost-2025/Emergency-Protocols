@@ -1,16 +1,14 @@
 EMERGENCY EXTRACTION - PROTOCOL SIGMA-7
 ========================================
 
-Standard Operating Procedure:
+In case of compromise:
+1. Destroy all evidence
+2. Activate dead man's switch
+3. Relocate to safe house coordinates
+4. Use master key for final transmission
 
-1. Secure all sensitive materials
-2. Establish secure communication channel
-3. Confirm extraction coordinates
-4. Activate emergency beacon
-5. Wait for extraction team
+Standard protocols have been updated.
+High-risk scenarios require additional measures.
 
-Response time: 4-6 hours
-Success rate: 94.7%
-
-All agents are trained in these protocols.
-Standard procedures apply.
+Refer to classified annexes for details.
+Security clearance Sigma-7 or higher required.
